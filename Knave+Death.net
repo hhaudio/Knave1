@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/emmettpalaima/Desktop/KiCadProjects/Knave+Death/Knave+Death.sch)
-    (date "Monday, 23 March 2020 at 05:51:59")
+    (date "Monday, 23 March 2020 at 06:59:10")
     (tool "Eeschema (5.1.2-1)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -46,7 +46,7 @@
       (tstamp 5E799458))
     (comp (ref RV1)
       (value 1M)
-      (footprint HammerheadAudio:R_THT_P7.62)
+      (footprint Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical)
       (datasheet ~)
       (libsource (lib Device) (part R_POT_TRIM) (description Trim-potentiometer))
       (sheetpath (names /) (tstamps /))
@@ -159,7 +159,7 @@
       (tstamp 5E7FEA4E))
     (comp (ref U2)
       (value LM358)
-      (footprint Package_DIP:DIP-14_W7.62mm_Socket)
+      (footprint Package_DIP:DIP-8_W7.62mm_Socket)
       (datasheet http://www.ti.com/lit/ds/symlink/lm2902-n.pdf)
       (libsource (lib Amplifier_Operational) (part LM358) (description "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"))
       (sheetpath (names /) (tstamps /))

@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:CV_To_PWM_Converter-cache
+LIBS:Knave+Death-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -179,7 +179,7 @@ U 1 1 5E79B5EB
 P 5800 5850
 F 0 "RV1" H 5730 5804 50  0000 R CNN
 F 1 "1M" H 5730 5895 50  0000 R CNN
-F 2 "HammerheadAudio:R_THT_P7.62" H 5800 5850 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical" H 5800 5850 50  0001 C CNN
 F 3 "~" H 5800 5850 50  0001 C CNN
 	1    5800 5850
 	-1   0    0    1   
@@ -677,7 +677,7 @@ U 1 1 5E80B036
 P 1150 4450
 F 0 "U2" H 1150 4817 50  0000 C CNN
 F 1 "LM358" H 1150 4726 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1100 4550 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket" H 1100 4550 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1200 4650 50  0001 C CNN
 	1    1150 4450
 	1    0    0    -1  
@@ -758,7 +758,7 @@ U 2 1 5E80B078
 P 1150 5300
 F 0 "U2" H 1150 5667 50  0000 C CNN
 F 1 "LM358" H 1150 5576 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1100 5400 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket" H 1100 5400 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1200 5500 50  0001 C CNN
 	2    1150 5300
 	1    0    0    -1  
@@ -1114,7 +1114,7 @@ U 3 1 5E8E8FA2
 P 7950 1650
 F 0 "U2" H 7908 1696 50  0000 L CNN
 F 1 "LM358" H 7908 1605 50  0000 L CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 7900 1750 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_Socket" H 7900 1750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 8000 1850 50  0001 C CNN
 	3    7950 1650
 	1    0    0    -1  
