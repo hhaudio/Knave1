@@ -1,4 +1,4 @@
-17498524578413974
+17512789809543974
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -231,16 +231,16 @@ SPARKFUN FLAME LOGO - 0.4" HEIGHT - SILKSCREEN
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.05
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.5
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
 0
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.5
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.05
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
 0
 0
 0
@@ -72429,7 +72429,56 @@ globe_america
 0
 0
 Skelly
+globe_america_small
+
+
+0
+0
+0
+Skelly
+globe_america_smaller
+
+
+0
+0
+0
+Skelly
 globe_asia
+
+
+0
+0
+0
+Skelly
+globe_asia_small
+
+
+0
+0
+0
+Skelly
+globe_asia_smaller
+
+
+0
+0
+0
+Skelly
+hand1_small
+
+
+0
+0
+0
+Skelly
+hand2_small
+
+
+0
+0
+0
+Skelly
+hand3_small
 
 
 0
@@ -72457,6 +72506,13 @@ hand_open
 0
 0
 Skelly
+hand_open_small
+
+
+0
+0
+0
+Skelly
 hand_small
 
 
@@ -72465,6 +72521,13 @@ hand_small
 0
 Skelly
 hand_tiny
+
+
+0
+0
+0
+Skelly
+hourglass_small
 
 
 0

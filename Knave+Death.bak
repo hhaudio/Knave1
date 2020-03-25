@@ -139,7 +139,7 @@ F 1 "1k" H 5870 5455 50  0000 L CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 5730 5500 50  0001 C CNN
 F 3 "~" H 5800 5500 50  0001 C CNN
 	1    5800 5500
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R R14
@@ -150,7 +150,7 @@ F 1 "1k" H 5870 4805 50  0000 L CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 5730 4850 50  0001 C CNN
 F 3 "~" H 5800 4850 50  0001 C CNN
 	1    5800 4850
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	5800 5350 5800 5300
