@@ -844,7 +844,7 @@ U 1 1 5EA7F91D
 P 9450 3250
 F 0 "J4" H 9478 3226 50  0000 L CNN
 F 1 "PWR_IN_PHNX" H 9478 3135 50  0000 L CNN
-F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal" H 9450 3250 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical" H 9450 3250 50  0001 C CNN
 F 3 "~" H 9450 3250 50  0001 C CNN
 	1    9450 3250
 	1    0    0    1   
@@ -1497,7 +1497,7 @@ U 1 1 5E7C831A
 P 9450 3000
 F 0 "J11" H 9478 2976 50  0000 L CNN
 F 1 "PWR_IN_PHNX" H 9478 2885 50  0000 L CNN
-F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal" H 9450 3000 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical" H 9450 3000 50  0001 C CNN
 F 3 "~" H 9450 3000 50  0001 C CNN
 	1    9450 3000
 	1    0    0    1   
@@ -1530,7 +1530,7 @@ U 1 1 5E7D3FD0
 P 9450 2750
 F 0 "J10" H 9478 2726 50  0000 L CNN
 F 1 "PWR_IN_PHNX" H 9478 2635 50  0000 L CNN
-F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal" H 9450 2750 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical" H 9450 2750 50  0001 C CNN
 F 3 "~" H 9450 2750 50  0001 C CNN
 	1    9450 2750
 	1    0    0    1   
@@ -1541,7 +1541,7 @@ U 1 1 5E7D4495
 P 9450 2550
 F 0 "J9" H 9478 2526 50  0000 L CNN
 F 1 "PWR_IN_PHNX" H 9478 2435 50  0000 L CNN
-F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal" H 9450 2550 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical" H 9450 2550 50  0001 C CNN
 F 3 "~" H 9450 2550 50  0001 C CNN
 	1    9450 2550
 	1    0    0    1   
