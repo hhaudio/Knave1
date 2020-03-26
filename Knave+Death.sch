@@ -233,7 +233,7 @@ U 1 1 5E7A1F2F
 P 3800 6250
 F 0 "C2" H 3918 6296 50  0000 L CNN
 F 1 "10uf" H 3918 6205 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" H 3838 6100 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" H 3838 6100 50  0001 C CNN
 F 3 "~" H 3800 6250 50  0001 C CNN
 	1    3800 6250
 	1    0    0    -1  
@@ -696,7 +696,7 @@ Wire Wire Line
 Wire Wire Line
 	2450 4800 2400 4800
 Text GLabel 950  4350 0    50   Input ~ 0
-TT0
+FF0
 Wire Wire Line
 	950  4350 1000 4350
 Wire Wire Line
@@ -768,7 +768,7 @@ Wire Wire Line
 Wire Wire Line
 	2450 5650 2400 5650
 Text GLabel 950  5200 0    50   Input ~ 0
-TT1
+FF1
 Wire Wire Line
 	950  5200 1000 5200
 Wire Wire Line
@@ -911,7 +911,7 @@ U 1 1 5EA7F91C
 P 8350 1650
 F 0 "C1" H 8468 1696 50  0000 L CNN
 F 1 "10uf" H 8468 1605 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" H 8388 1500 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" H 8388 1500 50  0001 C CNN
 F 3 "~" H 8350 1650 50  0001 C CNN
 	1    8350 1650
 	1    0    0    -1  
@@ -1310,7 +1310,7 @@ U 1 1 5E7E848A
 P 4200 6250
 F 0 "C3" H 4318 6296 50  0000 L CNN
 F 1 "10uf" H 4318 6205 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" H 4238 6100 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" H 4238 6100 50  0001 C CNN
 F 3 "~" H 4200 6250 50  0001 C CNN
 	1    4200 6250
 	1    0    0    -1  
