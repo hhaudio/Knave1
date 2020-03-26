@@ -499,12 +499,6 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1350 2850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1000 2750 1000 2950
-Wire Wire Line
-	1000 2950 1650 2950
-Wire Wire Line
-	1650 2950 1650 2650
-Wire Wire Line
 	1650 2650 1600 2650
 $Comp
 L Device:LED D2
@@ -550,9 +544,6 @@ F 3 "" H 2450 3050 50  0001 C CNN
 	1    2450 3050
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	1650 2950 1650 3000
-Connection ~ 1650 2950
 Connection ~ 1650 2650
 Wire Wire Line
 	2050 3000 2100 3000
@@ -1263,20 +1254,9 @@ F 3 "~" H 2250 6550 50  0001 C CNN
 $EndComp
 $Comp
 L Device:R R16
-U 1 1 5E7C45DB
-P 1900 6200
-F 0 "R16" V 1693 6200 50  0000 C CNN
-F 1 "1k" V 1784 6200 50  0000 C CNN
-F 2 "HammerheadAudio:R_THT_P7.62" V 1830 6200 50  0001 C CNN
-F 3 "~" H 1900 6200 50  0001 C CNN
-	1    1900 6200
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R R17
 U 1 1 5E7C45E5
 P 1900 6550
-F 0 "R17" V 1693 6550 50  0000 C CNN
+F 0 "R16" V 1693 6550 50  0000 C CNN
 F 1 "220" V 1784 6550 50  0000 C CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 1830 6550 50  0001 C CNN
 F 3 "~" H 1900 6550 50  0001 C CNN
@@ -1305,8 +1285,6 @@ Text GLabel 950  6100 0    50   Input ~ 0
 TRIG_IN
 Wire Wire Line
 	950  6100 1000 6100
-Wire Wire Line
-	1650 6200 1750 6200
 Wire Wire Line
 	1650 6550 1750 6550
 $Comp
@@ -1356,10 +1334,10 @@ VREF
 Wire Wire Line
 	1650 7250 1750 7250
 $Comp
-L Device:R R19
+L Device:R R18
 U 1 1 5E8114BF
 P 700 7350
-F 0 "R19" V 493 7350 50  0000 C CNN
+F 0 "R18" V 493 7350 50  0000 C CNN
 F 1 "1k" V 584 7350 50  0000 C CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 630 7350 50  0001 C CNN
 F 3 "~" H 700 7350 50  0001 C CNN
@@ -1367,10 +1345,10 @@ F 3 "~" H 700 7350 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:R R18
+L Device:R R17
 U 1 1 5E81215C
 P 700 6950
-F 0 "R18" V 493 6950 50  0000 C CNN
+F 0 "R17" V 493 6950 50  0000 C CNN
 F 1 "1k" V 584 6950 50  0000 C CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 630 6950 50  0001 C CNN
 F 3 "~" H 700 6950 50  0001 C CNN
@@ -1410,8 +1388,6 @@ Wire Wire Line
 Connection ~ 700  7150
 Wire Wire Line
 	700  7150 700  7200
-Wire Wire Line
-	2050 6200 2400 6200
 Wire Wire Line
 	1650 4450 1650 4800
 Wire Wire Line
@@ -1578,4 +1554,10 @@ Wire Wire Line
 Connection ~ 9100 2900
 Wire Wire Line
 	9100 2900 9100 3150
+Wire Wire Line
+	1650 2650 1650 3000
+Wire Wire Line
+	950  2750 1000 2750
+Wire Wire Line
+	1650 6200 2400 6200
 $EndSCHEMATC
