@@ -1,0 +1,10 @@
+(module starmask_1x1mm (layer F.Cu) (tedit 5EB0CA23)
+  (fp_text reference star_1x1mm (at 0 5) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_text value Val** (at -1.5 -1.5) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy 0 0) (xy -0.1 0.4) (xy -0.5 0.5) (xy -0.1 0.6)
+    (xy 0 1) (xy 0.1 0.6) (xy 0.5 0.5) (xy 0.1 0.4)) (layer F.Mask) (width 0.01))
+)
